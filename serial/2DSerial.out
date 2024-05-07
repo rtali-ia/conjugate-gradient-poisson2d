@@ -1,0 +1,18 @@
+======================= For Grid Size = 8 =======================
+Time difference = 0(ms)
+L2 Error: 0.00847772
+======================= For Grid Size = 16 =======================
+Time difference = 1(ms)
+L2 Error: 0.00183172
+======================= For Grid Size = 32 =======================
+Time difference = 19(ms)
+L2 Error: 0.000428142
+======================= For Grid Size = 64 =======================
+Time difference = 270(ms)
+L2 Error: 0.000103624
+======================= For Grid Size = 128 =======================
+Time difference = 4380(ms)
+L2 Error: 2.54973e-05
+======================= For Grid Size = 256 =======================
+Time difference = 70064(ms)
+L2 Error: 6.32429e-06

@@ -1,0 +1,18 @@
+================== Grid Size = 8====================
+Time taken: 0.00972793 seconds
+L2 Error: 0.00847772
+================== Grid Size = 16====================
+Time taken: 0.0108317 seconds
+L2 Error: 0.00183172
+================== Grid Size = 32====================
+Time taken: 0.0230335 seconds
+L2 Error: 0.000428142
+================== Grid Size = 64====================
+Time taken: 0.217069 seconds
+L2 Error: 0.000103624
+================== Grid Size = 128====================
+Time taken: 2.1193 seconds
+L2 Error: 2.54973e-05
+================== Grid Size = 256====================
+Time taken: 31.1859 seconds
+L2 Error: 6.32429e-06
